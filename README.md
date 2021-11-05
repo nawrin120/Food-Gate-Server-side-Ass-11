@@ -4,7 +4,7 @@
 
 sm123@gmail.com, owned and operated by SM Limited, is a premium online and on-demand service provider committed to make your life convenient, easier and smarter.
 
-client Server Live Link : [https://food-gate-d37ae.web.app/](https://food-gate-d37ae.web.app/)
+Live Link : [https://food-gate-d37ae.web.app/](https://food-gate-d37ae.web.app/)
 
 ## Available-
 
